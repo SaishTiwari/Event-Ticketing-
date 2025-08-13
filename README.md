@@ -13,7 +13,6 @@ A Spring Boot backend application designed to manage event ticket bookings with 
 - Simulated payment API endpoint  
 - JWT-based authentication and role-based access control  
 - RESTful API design with Swagger/OpenAPI documentation  
-- Unit and integration tests with JUnit and Mockito  
 
 ---
 
@@ -26,7 +25,6 @@ A Spring Boot backend application designed to manage event ticket bookings with 
 - Spring Security with JWT  
 - Swagger (Springfox or springdoc-openapi)  
 - Maven/Gradle  
-- JUnit 5 & Mockito  
 - Docker (optional for containerization)  
 
 ---
